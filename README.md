@@ -1,4 +1,4 @@
-# MoveIt Packages with Python Scripts Created for ME 396P Lightning Talk, Fall 2022, Team 09
+# MoveIt Packages with Python Scripts Created for ME 396P Final Presentation, Fall 2022, Team G09
 
 ## Contents
 1. **ur_moveit_config**
